@@ -6,6 +6,9 @@ This repository contains a simple stopwatch implementation using HTML, CSS, and 
 
 The stopwatch web page consists of two stopwatches that can be controlled individually. Each stopwatch displays the elapsed time in the format HH:MM:SS. The stopwatches provide three buttons for each instance: Start, Stop, and Reset.
 
+## Demo
+You can try this by clicking here: https://dualstopwatch.netlify.app/
+
 ## Usage
 
 To use the stopwatches, follow these steps:
